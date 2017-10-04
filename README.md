@@ -1,6 +1,8 @@
 
-Docker Pure-ftpd Server
-============================
+This is a fork of https://hub.docker.com/r/stilliard/pure-ftpd/ - it may be merged in later, if desired.
+
+Docker Pure-ftpd Server with LDAP-support
+=========================================
 https://hub.docker.com/r/stilliard/pure-ftpd/
 
 [![Build Status](https://travis-ci.org/stilliard/docker-pure-ftpd.svg?branch=master)](https://travis-ci.org/stilliard/docker-pure-ftpd)
